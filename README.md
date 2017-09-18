@@ -1,2 +1,3 @@
 # hello-git
-hello word program
+hello world program
+am umar aminu learnig git on github
